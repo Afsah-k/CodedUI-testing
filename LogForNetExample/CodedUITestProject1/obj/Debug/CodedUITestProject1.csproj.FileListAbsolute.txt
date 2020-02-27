@@ -1,0 +1,5 @@
+C:\Users\Afsah\Documents\Visual Studio 2013\Projects\LogForNetExample\CodedUITestProject1\bin\Debug\CodedUITestProject1.dll
+C:\Users\Afsah\Documents\Visual Studio 2013\Projects\LogForNetExample\CodedUITestProject1\bin\Debug\CodedUITestProject1.pdb
+C:\Users\Afsah\Documents\Visual Studio 2013\Projects\LogForNetExample\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
+C:\Users\Afsah\Documents\Visual Studio 2013\Projects\LogForNetExample\CodedUITestProject1\obj\Debug\CodedUITestProject1.pdb
+C:\Users\Afsah\Documents\Visual Studio 2013\Projects\LogForNetExample\CodedUITestProject1\obj\Debug\CodedUITestProject1.csprojResolveAssemblyReference.cache
