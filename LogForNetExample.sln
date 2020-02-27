@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogForNetExample", "LogForNetExample\LogForNetExample.csproj", "{FE159230-490B-4F7C-BCC1-974A862E8416}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodedUITestProject1", "CodedUITestProject1\CodedUITestProject1.csproj", "{015080E4-16BB-4617-BE13-E9467C1745D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE159230-490B-4F7C-BCC1-974A862E8416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE159230-490B-4F7C-BCC1-974A862E8416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE159230-490B-4F7C-BCC1-974A862E8416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE159230-490B-4F7C-BCC1-974A862E8416}.Release|Any CPU.Build.0 = Release|Any CPU
+		{015080E4-16BB-4617-BE13-E9467C1745D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{015080E4-16BB-4617-BE13-E9467C1745D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{015080E4-16BB-4617-BE13-E9467C1745D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{015080E4-16BB-4617-BE13-E9467C1745D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
